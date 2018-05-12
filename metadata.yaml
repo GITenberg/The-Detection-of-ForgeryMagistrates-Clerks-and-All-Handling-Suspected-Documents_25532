@@ -1,0 +1,31 @@
+_repo: The-Detection-of-ForgeryMagistrates-Clerks-and-All-Handling-Suspected-Documents_25532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Blackburn, Douglas
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '31401'
+    url: http://www.gutenberg.org/2009/agents/31401
+  - agent_name: Caddell, W. Waithman
+    gutenberg_agent_id: '31402'
+    url: http://www.gutenberg.org/2009/agents/31402
+description: ''
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Writing -- Identification'
+- !lcsh 'Forgery'
+- !lcc 'HV'
+title: "The Detection of Forgery\r\nA Practical Handbook for the Use of Bankers, Solicitors,\
+  \ Magistrates' Clerks, and All Handling Suspected Documents"
+url: http://www.gutenberg.org/ebooks/25532
